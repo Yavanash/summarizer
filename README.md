@@ -21,15 +21,4 @@ The model takes a piece of text as input and tries to generate a shorter summary
 
 ## Goal of this project
 
-The main goal of this project was to **learn how seq2seq models and attention work internally** by implementing everything from scratch instead of using pretrained models or high-level libraries.
-
-## Project Structure
-
-```text
-summarizer/
-│
-├── main.ipynb   # implementation and training
-├── README.md
-```
-
-This project is mainly for **learning and experimentation**, not a production-level summarization system.
+The main goal of this project was to **learn how seq2seq models and attention work internally** by implementing everything from scratch instead of using pretrained models or high-level libraries. This project is mainly for **learning and experimentation**, not a production-level summarization system.
