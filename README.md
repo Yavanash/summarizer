@@ -9,8 +9,10 @@ The model takes a piece of text as input and tries to generate a shorter summary
 * Seq2Seq architecture using RNNs
 * Bahdanau-style attention
 * Custom vocabulary and tokenization
+* Attention Mask for Padding tokens 
 * Batched training with padding
 * Training loop using PyTorch
+* Attention Heatmaps
 
 ## Tools used
 
